@@ -1,6 +1,6 @@
 # cli-demo
 
-A CLI demonstration project containing my_cli_bot and related components.
+A CLI demonstration project containing my_cli_bot and related components. Also refer to frontend-main Repo for a detailed README
 
 ## Contents
 
